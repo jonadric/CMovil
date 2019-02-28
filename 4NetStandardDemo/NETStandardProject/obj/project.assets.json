@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonat\\source\\repos\\NETStandardDemo\\NETStandardProject\\NETStandardProject.csproj",
+      "projectUniqueName": "C:\\Users\\jonat\\Source\\Repos\\CMovil\\4NetStandardDemo\\NETStandardProject\\NETStandardProject.csproj",
       "projectName": "NETStandardProject",
-      "projectPath": "C:\\Users\\jonat\\source\\repos\\NETStandardDemo\\NETStandardProject\\NETStandardProject.csproj",
+      "projectPath": "C:\\Users\\jonat\\Source\\Repos\\CMovil\\4NetStandardDemo\\NETStandardProject\\NETStandardProject.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonat\\source\\repos\\NETStandardDemo\\NETStandardProject\\obj\\",
+      "outputPath": "C:\\Users\\jonat\\Source\\Repos\\CMovil\\4NetStandardDemo\\NETStandardProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -246,6 +246,16 @@
         "build": {
           "build/MonoAndroid81/Xamarin.Android.Support.Vector.Drawable.targets": {}
         }
+      },
+      "NETStandardProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/NETStandardProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NETStandardProject.dll": {}
+        }
       }
     }
   },
@@ -467,10 +477,16 @@
         "xamarin.android.support.vector.drawable.27.0.2.1.nupkg.sha512",
         "xamarin.android.support.vector.drawable.nuspec"
       ]
+    },
+    "NETStandardProject/1.0.0": {
+      "type": "project",
+      "path": "../NETStandardProject/NETStandardProject.csproj",
+      "msbuildProject": "../NETStandardProject/NETStandardProject.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v8.1": [
+      "NETStandardProject >= 1.0.0",
       "Xamarin.Android.Support.Design >= 27.0.2.1"
     ]
   },
@@ -480,11 +496,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonat\\source\\repos\\NETStandardDemo\\AndroidApp\\AndroidApp.csproj",
+      "projectUniqueName": "C:\\Users\\jonat\\Source\\Repos\\CMovil\\4NetStandardDemo\\AndroidApp\\AndroidApp.csproj",
       "projectName": "AndroidApp",
-      "projectPath": "C:\\Users\\jonat\\source\\repos\\NETStandardDemo\\AndroidApp\\AndroidApp.csproj",
+      "projectPath": "C:\\Users\\jonat\\Source\\Repos\\CMovil\\4NetStandardDemo\\AndroidApp\\AndroidApp.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonat\\source\\repos\\NETStandardDemo\\AndroidApp\\obj\\",
+      "outputPath": "C:\\Users\\jonat\\Source\\Repos\\CMovil\\4NetStandardDemo\\AndroidApp\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -500,7 +516,11 @@
       },
       "frameworks": {
         "monoandroid81": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jonat\\Source\\Repos\\CMovil\\4NetStandardDemo\\NETStandardProject\\NETStandardProject.csproj": {
+              "projectPath": "C:\\Users\\jonat\\Source\\Repos\\CMovil\\4NetStandardDemo\\NETStandardProject\\NETStandardProject.csproj"
+            }
+          }
         }
       }
     },
