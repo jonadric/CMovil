@@ -13,5 +13,10 @@ namespace UIWithCS
         {
             InitializeComponent();
         }
+
+        private void BtnTapMe_Clicked(object sender, EventArgs e)
+        {
+            DisplayAlert("Mensaje informativo", "Has tocado el botón!", "OK");
+        }
     }
 }
