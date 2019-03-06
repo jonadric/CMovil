@@ -1,0 +1,12 @@
+C:\Users\jonat\Source\Repos\CMovil\UIWithCS\UIWithCS\UIWithCS\bin\Debug\netstandard2.0\UIWithCS.deps.json
+C:\Users\jonat\Source\Repos\CMovil\UIWithCS\UIWithCS\UIWithCS\bin\Debug\netstandard2.0\UIWithCS.dll
+C:\Users\jonat\Source\Repos\CMovil\UIWithCS\UIWithCS\UIWithCS\bin\Debug\netstandard2.0\UIWithCS.pdb
+C:\Users\jonat\Source\Repos\CMovil\UIWithCS\UIWithCS\UIWithCS\obj\Debug\netstandard2.0\UIWithCS.csprojAssemblyReference.cache
+C:\Users\jonat\Source\Repos\CMovil\UIWithCS\UIWithCS\UIWithCS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jonat\Source\Repos\CMovil\UIWithCS\UIWithCS\UIWithCS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jonat\Source\Repos\CMovil\UIWithCS\UIWithCS\UIWithCS\obj\Debug\netstandard2.0\UIWithCS.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Source\Repos\CMovil\UIWithCS\UIWithCS\UIWithCS\obj\Debug\netstandard2.0\UIWithCS.AssemblyInfoInputs.cache
+C:\Users\jonat\Source\Repos\CMovil\UIWithCS\UIWithCS\UIWithCS\obj\Debug\netstandard2.0\UIWithCS.AssemblyInfo.cs
+C:\Users\jonat\Source\Repos\CMovil\UIWithCS\UIWithCS\UIWithCS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jonat\Source\Repos\CMovil\UIWithCS\UIWithCS\UIWithCS\obj\Debug\netstandard2.0\UIWithCS.dll
+C:\Users\jonat\Source\Repos\CMovil\UIWithCS\UIWithCS\UIWithCS\obj\Debug\netstandard2.0\UIWithCS.pdb

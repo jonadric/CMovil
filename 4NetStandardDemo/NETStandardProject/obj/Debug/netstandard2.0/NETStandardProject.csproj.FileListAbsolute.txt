@@ -7,3 +7,12 @@ C:\Users\jonat\source\repos\NETStandardDemo\NETStandardProject\obj\Debug\netstan
 C:\Users\jonat\source\repos\NETStandardDemo\NETStandardProject\obj\Debug\netstandard2.0\NETStandardProject.AssemblyInfo.cs
 C:\Users\jonat\source\repos\NETStandardDemo\NETStandardProject\obj\Debug\netstandard2.0\NETStandardProject.dll
 C:\Users\jonat\source\repos\NETStandardDemo\NETStandardProject\obj\Debug\netstandard2.0\NETStandardProject.pdb
+C:\Users\jonat\Source\Repos\CMovil\4NetStandardDemo\NETStandardProject\bin\Debug\netstandard2.0\NETStandardProject.deps.json
+C:\Users\jonat\Source\Repos\CMovil\4NetStandardDemo\NETStandardProject\bin\Debug\netstandard2.0\NETStandardProject.dll
+C:\Users\jonat\Source\Repos\CMovil\4NetStandardDemo\NETStandardProject\bin\Debug\netstandard2.0\NETStandardProject.pdb
+C:\Users\jonat\Source\Repos\CMovil\4NetStandardDemo\NETStandardProject\obj\Debug\netstandard2.0\NETStandardProject.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Source\Repos\CMovil\4NetStandardDemo\NETStandardProject\obj\Debug\netstandard2.0\NETStandardProject.AssemblyInfoInputs.cache
+C:\Users\jonat\Source\Repos\CMovil\4NetStandardDemo\NETStandardProject\obj\Debug\netstandard2.0\NETStandardProject.AssemblyInfo.cs
+C:\Users\jonat\Source\Repos\CMovil\4NetStandardDemo\NETStandardProject\obj\Debug\netstandard2.0\NETStandardProject.dll
+C:\Users\jonat\Source\Repos\CMovil\4NetStandardDemo\NETStandardProject\obj\Debug\netstandard2.0\NETStandardProject.pdb
+C:\Users\jonat\Source\Repos\CMovil\4NetStandardDemo\NETStandardProject\obj\Debug\netstandard2.0\NETStandardProject.csprojAssemblyReference.cache
