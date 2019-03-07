@@ -1,0 +1,1 @@
+C:\Users\jonat\Source\Repos\CMovil\UIWithCS\UIWindows\UIWindows.csproj;x86

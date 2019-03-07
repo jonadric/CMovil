@@ -1,0 +1,14 @@
+C:\Users\jonat\Source\Repos\CMovil\XAMLHello\XAMLHello\XAMLHello\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jonat\Source\Repos\CMovil\XAMLHello\XAMLHello\XAMLHello\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jonat\Source\Repos\CMovil\XAMLHello\XAMLHello\XAMLHello\obj\Debug\netstandard2.0\XAMLHello.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Source\Repos\CMovil\XAMLHello\XAMLHello\XAMLHello\obj\Debug\netstandard2.0\XAMLHello.AssemblyInfoInputs.cache
+C:\Users\jonat\Source\Repos\CMovil\XAMLHello\XAMLHello\XAMLHello\obj\Debug\netstandard2.0\XAMLHello.AssemblyInfo.cs
+C:\Users\jonat\Source\Repos\CMovil\XAMLHello\XAMLHello\XAMLHello\obj\Debug\netstandard2.0\XAMLHello.dll
+C:\Users\jonat\Source\Repos\CMovil\XAMLHello\XAMLHello\XAMLHello\obj\Debug\netstandard2.0\XAMLHello.pdb
+C:\Users\jonat\Source\Repos\CMovil\XAMLHello\XAMLHello\XAMLHello\bin\Debug\netstandard2.0\XAMLHello.deps.json
+C:\Users\jonat\Source\Repos\CMovil\XAMLHello\XAMLHello\XAMLHello\bin\Debug\netstandard2.0\XAMLHello.dll
+C:\Users\jonat\Source\Repos\CMovil\XAMLHello\XAMLHello\XAMLHello\bin\Debug\netstandard2.0\XAMLHello.pdb
+C:\Users\jonat\Source\Repos\CMovil\XAMLHello\XAMLHello\XAMLHello\obj\Debug\netstandard2.0\XAMLHello.csprojAssemblyReference.cache
+C:\Users\jonat\Source\Repos\CMovil\XAMLHello\XAMLHello\XAMLHello\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jonat\Source\Repos\CMovil\XAMLHello\XAMLHello\XAMLHello\obj\Debug\netstandard2.0\HelloPage.xaml.g.cs
+C:\Users\jonat\Source\Repos\CMovil\XAMLHello\XAMLHello\XAMLHello\obj\Debug\netstandard2.0\HelloCode.xaml.g.cs

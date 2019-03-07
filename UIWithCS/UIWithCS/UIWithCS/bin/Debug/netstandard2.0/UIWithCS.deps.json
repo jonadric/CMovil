@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "7dba3512e6a2a6cd1013a3a6c2473bc097f98676"
+    "signature": "88dcd6684e5456a23a0650f1c2d4a9fad7bbf0f5"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,7 +10,7 @@
       "UIWithCS/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
-          "Xamarin.Forms": "3.5.0.169047"
+          "Xamarin.Forms": "3.6.0.220655"
         },
         "runtime": {
           "UIWithCS.dll": {}
@@ -22,7 +22,7 @@
           "Microsoft.NETCore.Platforms": "1.1.0"
         }
       },
-      "Xamarin.Forms/3.5.0.169047": {
+      "Xamarin.Forms/3.6.0.220655": {
         "runtime": {
           "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
             "assemblyVersion": "2.0.0.0",
@@ -60,12 +60,12 @@
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
-    "Xamarin.Forms/3.5.0.169047": {
+    "Xamarin.Forms/3.6.0.220655": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-bDUiWsvlU949lyf8gw5ROVQ0kRr1dB8daiWATYCXuOXv/iODsbq/8NmNVxhV2WbOo8b8wJMe7SqZG4V/CQlYuQ==",
-      "path": "xamarin.forms/3.5.0.169047",
-      "hashPath": "xamarin.forms.3.5.0.169047.nupkg.sha512"
+      "sha512": "sha512-vpPeq+GpNGj9uAyHjzeaPtPPAHxajanj2ct7ZqQ1RXGUlthi/yK5nnmyv9L/IGQ3fzgU28PBID7yQL13P3bGig==",
+      "path": "xamarin.forms/3.6.0.220655",
+      "hashPath": "xamarin.forms.3.6.0.220655.nupkg.sha512"
     }
   }
 }
