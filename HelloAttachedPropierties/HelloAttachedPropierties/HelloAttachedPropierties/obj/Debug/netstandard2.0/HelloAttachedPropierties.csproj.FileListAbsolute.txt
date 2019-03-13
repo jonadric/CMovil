@@ -1,0 +1,12 @@
+C:\Users\Practica\Source\Repos\CMovil\HelloAttachedPropierties\HelloAttachedPropierties\HelloAttachedPropierties\bin\Debug\netstandard2.0\HelloAttachedPropierties.deps.json
+C:\Users\Practica\Source\Repos\CMovil\HelloAttachedPropierties\HelloAttachedPropierties\HelloAttachedPropierties\bin\Debug\netstandard2.0\HelloAttachedPropierties.dll
+C:\Users\Practica\Source\Repos\CMovil\HelloAttachedPropierties\HelloAttachedPropierties\HelloAttachedPropierties\bin\Debug\netstandard2.0\HelloAttachedPropierties.pdb
+C:\Users\Practica\Source\Repos\CMovil\HelloAttachedPropierties\HelloAttachedPropierties\HelloAttachedPropierties\obj\Debug\netstandard2.0\HelloAttachedPropierties.csprojAssemblyReference.cache
+C:\Users\Practica\Source\Repos\CMovil\HelloAttachedPropierties\HelloAttachedPropierties\HelloAttachedPropierties\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Practica\Source\Repos\CMovil\HelloAttachedPropierties\HelloAttachedPropierties\HelloAttachedPropierties\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Practica\Source\Repos\CMovil\HelloAttachedPropierties\HelloAttachedPropierties\HelloAttachedPropierties\obj\Debug\netstandard2.0\HelloAttachedPropierties.csproj.CoreCompileInputs.cache
+C:\Users\Practica\Source\Repos\CMovil\HelloAttachedPropierties\HelloAttachedPropierties\HelloAttachedPropierties\obj\Debug\netstandard2.0\HelloAttachedPropierties.AssemblyInfoInputs.cache
+C:\Users\Practica\Source\Repos\CMovil\HelloAttachedPropierties\HelloAttachedPropierties\HelloAttachedPropierties\obj\Debug\netstandard2.0\HelloAttachedPropierties.AssemblyInfo.cs
+C:\Users\Practica\Source\Repos\CMovil\HelloAttachedPropierties\HelloAttachedPropierties\HelloAttachedPropierties\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Practica\Source\Repos\CMovil\HelloAttachedPropierties\HelloAttachedPropierties\HelloAttachedPropierties\obj\Debug\netstandard2.0\HelloAttachedPropierties.dll
+C:\Users\Practica\Source\Repos\CMovil\HelloAttachedPropierties\HelloAttachedPropierties\HelloAttachedPropierties\obj\Debug\netstandard2.0\HelloAttachedPropierties.pdb
