@@ -53,9 +53,6 @@
                HorizontalTextAlignment="Center" 
                VerticalTextAlignment="Center"/>
 
-
-
-
         </Grid>
     </ContentPage.Content>
 </ContentPage>
