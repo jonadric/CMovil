@@ -1,0 +1,1 @@
+C:\Users\jonat\source\repos\CMovil\CDos\CDos\CDos.UWP\CDos.UWP.csproj;x86

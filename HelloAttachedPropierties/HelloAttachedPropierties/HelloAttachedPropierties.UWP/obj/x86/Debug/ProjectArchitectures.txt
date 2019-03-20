@@ -1,1 +1,0 @@
-C:\Users\Practica\Source\Repos\CMovil\HelloAttachedPropierties\HelloAttachedPropierties\HelloAttachedPropierties.UWP\HelloAttachedPropierties.UWP.csproj;x86
