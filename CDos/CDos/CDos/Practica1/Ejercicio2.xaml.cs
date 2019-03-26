@@ -15,6 +15,11 @@ namespace CDos.Practica1
 		public Ejercicio2 ()
 		{
 			InitializeComponent ();
-		}
-	}
+            //if (Device.RuntimePlatform == Device.iOS)
+            //{
+            //    Padding = new Thickness(0, 20, 0, 0);
+            //}
+
+        }
+    }
 }

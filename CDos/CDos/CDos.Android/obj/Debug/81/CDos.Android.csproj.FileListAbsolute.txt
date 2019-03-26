@@ -102,6 +102,4 @@ C:\Users\jonat\source\repos\CMovil\CDos\CDos\CDos.Android\obj\Debug\81\android\a
 C:\Users\jonat\source\repos\CMovil\CDos\CDos\CDos.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\jonat\source\repos\CMovil\CDos\CDos\CDos.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\jonat\source\repos\CMovil\CDos\CDos\CDos.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
-C:\Users\jonat\source\repos\CMovil\CDos\CDos\CDos\bin\Debug\netstandard2.0\CDos.dll
-C:\Users\jonat\source\repos\CMovil\CDos\CDos\CDos.Android\bin\Debug\CDos.dll.mdb
 C:\Users\jonat\source\repos\CMovil\CDos\CDos\CDos.Android\obj\Debug\81\linksrc\CDos.dll.mdb

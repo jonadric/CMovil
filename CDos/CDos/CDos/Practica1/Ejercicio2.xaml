@@ -2,11 +2,16 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="CDos.Practica1.Ejercicio2">
-    <ContentPage.Content>
+    <ContentPage.Padding>
+        <On x:TypeArguments="Thickness">
+            <On Platform="iOS">
+                <On.Value>
+                    0,20,0,0
+                </On.Value>
+            </On>
+        </OnPlatform>
+    </ContentPage.Padding>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Welcome to Xamarin.Forms!"/>
         </StackLayout>
-    </ContentPage.Content>
 </ContentPage>
