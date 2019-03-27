@@ -25,5 +25,10 @@ namespace CDos.Practica1
         {
             await Navigation.PushAsync(new Practica1.Ejercicio2());
         }
+
+        async private void PracticaEXT(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Practica1.Ejercicio3());
+        }
     }
 }

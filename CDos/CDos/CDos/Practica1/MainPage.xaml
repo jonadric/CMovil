@@ -5,7 +5,8 @@
     <ContentPage.Content>
         <StackLayout Padding="20" Margin="5,10,5,0">
             <Button Text="Grids" Clicked="PracticaGrid"></Button>
-            <Button Text="Propiedades" Clicked="PracticaProp"></Button>
+            <Button Text="OnPlatform" Clicked="PracticaProp"></Button>
+            <Button Text="Extensiones" Clicked="PracticaEXT"></Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

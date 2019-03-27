@@ -9,7 +9,7 @@
         <Label Text="Estas Son las Practicas del Segundo Corte" 
            HorizontalOptions="Center"/>
         <Button Text="Practica 1" Clicked="PracticaUno"></Button>
-        <Button Text="Practica 2"></Button>
+        <Button Text="Practica 2" Clicked="PracticaDos"></Button>
     </StackLayout>
 
 </ContentPage>

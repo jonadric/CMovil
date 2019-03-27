@@ -18,5 +18,10 @@ namespace CDos
         {
             await Navigation.PushAsync(new Practica1.MainPage());
         }
+
+        async private void PracticaDos(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Practica2.MainPage());
+        }
     }
 }
