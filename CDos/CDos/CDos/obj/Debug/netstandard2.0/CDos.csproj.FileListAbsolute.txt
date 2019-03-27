@@ -15,3 +15,4 @@ C:\Users\jonat\source\repos\CMovil\CDos\CDos\CDos\obj\Debug\netstandard2.0\CDos.
 C:\Users\jonat\source\repos\CMovil\CDos\CDos\CDos\obj\Debug\netstandard2.0\CDos.pdb
 C:\Users\jonat\source\repos\CMovil\CDos\CDos\CDos\obj\Debug\netstandard2.0\Practica1\Ejercicio3.xaml.g.cs
 C:\Users\jonat\source\repos\CMovil\CDos\CDos\CDos\obj\Debug\netstandard2.0\Practica2\MainPage.xaml.g.cs
+C:\Users\jonat\source\repos\CMovil\CDos\CDos\CDos\obj\Debug\netstandard2.0\Practica2\Ejercicio1.xaml.g.cs

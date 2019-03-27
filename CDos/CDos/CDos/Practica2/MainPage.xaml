@@ -3,10 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="CDos.Practica2.MainPage">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
+        <StackLayout Padding="20" Margin="5,10,5,0">
+            <Label Text="Ejercicios Guia 2!"
                 HorizontalOptions="CenterAndExpand" />
+            <Button Text="x:Static" Clicked="PracticaStatic"></Button>
+            <Button Text="Data Binding" Clicked="PracticaDataB"></Button>
+            
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:local="clr-namespace:CDos.Practica2" 
+             xmlns:vm="clr-namespace:Products;assembly=ViewModels"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CDos.Practica2.Ejercicio1">
+    <ContentPage.Content Padding="{x:Static local:Practica2.AppConstants.PagePadding}">
+        <StackLayout>
+            <Label TextColor="{x:Static local:AppConstants.ForegroundColor}"
+                   BackgroundColor="{x:Static local:AppConstants.BackgroundColor}"
+                   Font="{x:Static local:AppConstants.TitleFont}" 
+                   Text="Welcome to Xamarin.Forms!"
+                   VerticalOptions="{x:Static LayoutOptions.CenterAndExpand}"
+                   HorizontalOptions="{x:Static LayoutOptions.Center}"  
+                   HorizontalTextAlignment="{x:Static TextAlignment.Center}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -16,5 +16,15 @@ namespace CDos.Practica2
 		{
 			InitializeComponent ();
 		}
-	}
+
+        async private void PracticaStatic(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Practica2.Ejercicio1());
+        }
+
+        async private void PracticaDataB(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Practica2.Ejercicio2());
+        }
+    }
 }
